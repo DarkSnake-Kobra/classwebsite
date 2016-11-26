@@ -107,3 +107,19 @@
 }
 
 /* End Rating Styles */
+
+/* Resource Page Styles */
+.resourcesContent
+{
+	margin-top: 100px;
+}
+
+.resourcesContent li a
+{
+		color: rgb(0,102,153);
+}
+
+.resourcesContent ul
+{
+	list-style-type: none;
+}
