@@ -1,10 +1,18 @@
 /* Page  Stylesheet
  *
  * Extra styles for sub pages */
-iframe
+.ratingTool iframe
 {
   margin-top: 10px;
 	float: right;
 	width: 760px;
 	height: 400px;
+}
+
+.chickens iframe
+{
+  margin-top: 10px;
+	float: right;
+	width: 760px;
+	height: 300px;
 }
