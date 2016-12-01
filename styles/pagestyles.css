@@ -26,7 +26,7 @@
 .aboutContent
 {
 	margin-top: 100px;
-	text-align: center;
+	text-align: left;
 }
 
 /* End About Menu Styles */
@@ -83,7 +83,7 @@
 .ratingtMenu li
 {
 	float: left;
-	text-align: center;
+	text-align: left;
 	width: 20%;
 	list-style: none;
 	line-height: 2.2em;
